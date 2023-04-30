@@ -1,0 +1,1 @@
+from pages.search.booking_search_page import BookingSearchPage
